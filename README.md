@@ -2,6 +2,10 @@
 
 A modern web project featuring smooth scrolling.
 
+## 🌐 Live Demo
+
+Check out the live demo: [https://08-subham.github.io/TwoGoodCO/](https://08-subham.github.io/TwoGoodCO/)
+
 ## 🚀 Technologies Used
 
 - **GSAP (GreenSock Animation Platform)** - For high-performance animations
